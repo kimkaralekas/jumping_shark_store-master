@@ -13,7 +13,7 @@ $(document).ready(function(){
     // when clicked, remove the item from the table in `#cart`
     // run the function you created to update the total
 
-$.getJSON( "js/items.json", function(json) {
+$.getJSON( "../../items.json", function(json) {
     console.table(json.result);
 });
 
