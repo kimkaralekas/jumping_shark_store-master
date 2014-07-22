@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Cat Toy",
+    "image": "cat_toy.jpg",
+    "price": "$10"
+  },
+  {
+    "name": "Cat House",
+    "image": "cat_house.jpg",
+    "price": "$50"
+  },
+  {
+    "name": "Catnip",
+    "image": "catnip.jpg",
+    "price": "$5"
+  },
+  {
+    "name": "Buffy Season 1",
+    "image": "buffy_season_one.jpg",
+    "price": "$20"
+  },
+  {
+    "name": "Corgi Squishable",
+    "image": "corgi_squishable.jpg",
+    "price": "$50"
+  },
+  {
+    "name": "Justified",
+    "image": "justified.jpg",
+    "price": "$7"
+  }
+]
