@@ -12,7 +12,6 @@ $(document).ready(function(){
   // attach an event listener to all `.buttons` in the `.cart-item`s to detect clicks
     // when clicked, remove the item from the table in `#cart`
     // run the function you created to update the total
-df
 
 $.getJSON( "js/items.json", function(json) {
     console.table(json.result);
